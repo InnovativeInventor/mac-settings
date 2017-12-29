@@ -34,6 +34,8 @@ brew install clamav
 brew install grip
 brew install make
 brew install screen
+brew install aspell
+brew install enchant
 brew cask install atom
 brew cask install cakebrew
 brew cask install iterm2
