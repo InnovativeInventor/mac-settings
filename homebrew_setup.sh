@@ -27,7 +27,6 @@
 # Notes:
 # Brew must be installed beforehand!
 
-
 brew install git
 brew install bash-completion
 brew install clamav
@@ -36,6 +35,7 @@ brew install make
 brew install screen
 brew install aspell
 brew install enchant
+brew install python3
 brew cask install atom
 brew cask install cakebrew
 brew cask install iterm2
