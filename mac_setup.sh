@@ -28,7 +28,7 @@
 if ! [ -x "$(brew -v)" ]; then
     /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 fi
-
+cp bash_profile ~/.bash_profile
 bash homebrew_setup.sh
 bash python-deps.sh
 echo 'set speller "aspell -x -c"' >> /etc/nanorc
