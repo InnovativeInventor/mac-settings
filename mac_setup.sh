@@ -32,3 +32,6 @@ cp bash_profile ~/.bash_profile
 bash homebrew_setup.sh
 bash python-deps.sh
 echo 'set speller "aspell -x -c"' >> /etc/nanorc
+
+## Install rust
+curl https://sh.rustup.rs -sSf | sh
