@@ -1,1 +1,1 @@
-pip3 install numpy tensorflow tqdm monobox keras
+pip3 install numpy tensorflow tqdm monobox keras awscli
