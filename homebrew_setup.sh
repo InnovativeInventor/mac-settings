@@ -27,6 +27,7 @@
 # Notes:
 # Brew must be installed beforehand!
 
+brew update
 brew install git
 brew install bash-completion
 brew install clamav
@@ -39,3 +40,8 @@ brew install python3
 brew cask install atom
 brew cask install cakebrew
 brew cask install iterm2
+brew install python3
+brew install pyenv
+
+pyenv install 3.7.0
+pyenv global 3.7.0
