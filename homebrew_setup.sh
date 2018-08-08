@@ -47,6 +47,7 @@ brew cask install lepton
 brew install qemu
 brew cask install virtualbox
 brew install jsonlint
+brew install gnu-sed --with-default-names
 
 pyenv install 3.7.0
 pyenv global 3.7.0
