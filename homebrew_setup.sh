@@ -43,6 +43,8 @@ brew cask install cakebrew
 brew cask install iterm2
 brew install python3
 brew install pyenv
+brew install qemu
+brew cask install virtualbox
 
 pyenv install 3.7.0
 pyenv global 3.7.0
