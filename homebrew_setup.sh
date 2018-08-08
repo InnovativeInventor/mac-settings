@@ -46,6 +46,7 @@ brew install pyenv
 brew cask install lepton
 brew install qemu
 brew cask install virtualbox
+brew install jsonlint
 
 pyenv install 3.7.0
 pyenv global 3.7.0
