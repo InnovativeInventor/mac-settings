@@ -51,5 +51,5 @@ brew install gnu-sed --with-default-names
 brew install gnupg
 brew cask install gpg-suite
 
-pyenv install 3.7.0
+PYTHON_CONFIGURE_OPTS="--enable-framework" pyenv install 3.7.0
 pyenv global 3.7.0
