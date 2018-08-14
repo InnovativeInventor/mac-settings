@@ -50,6 +50,7 @@ brew install jsonlint
 brew install gnu-sed --with-default-names
 brew install gnupg
 brew cask install gpg-suite
+brew install yarn
 
 PYTHON_CONFIGURE_OPTS="--enable-framework" pyenv install 3.7.0
 pyenv global 3.7.0
