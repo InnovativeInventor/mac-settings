@@ -51,7 +51,9 @@ brew install gnu-sed --with-default-names
 brew install gnupg
 brew cask install gpg-suite
 brew install yarn
-brew cask install postman 
+brew cask install postman
+brew install fzf
+brew install fish
 
 PYTHON_CONFIGURE_OPTS="--enable-framework" pyenv install 3.7.0
 pyenv global 3.7.0
