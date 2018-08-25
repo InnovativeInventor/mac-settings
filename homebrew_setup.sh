@@ -57,3 +57,6 @@ brew install fish
 
 PYTHON_CONFIGURE_OPTS="--enable-framework" pyenv install 3.7.0
 pyenv global 3.7.0
+
+/usr/local/opt/fzf/install
+fzf_key_bindings
