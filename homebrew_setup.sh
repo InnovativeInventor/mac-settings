@@ -55,6 +55,8 @@ brew cask install postman
 brew install fzf
 brew install fish
 
+brew cask install flycut
+
 PYTHON_CONFIGURE_OPTS="--enable-framework" pyenv install 3.7.0
 pyenv global 3.7.0
 
