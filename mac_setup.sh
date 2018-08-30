@@ -31,6 +31,7 @@ fi
 cp bash_profile ~/.bash_profile
 bash homebrew_setup.sh
 bash python-deps.sh
+bash npm.sh
 echo 'set speller "aspell -x -c"' >> /etc/nanorc
 
 ## Install rust
