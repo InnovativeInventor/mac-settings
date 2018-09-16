@@ -58,6 +58,9 @@ brew install fish
 brew cask install flycut
 brew cask install etcher
 
+brew install pypy
+brew install pypy3
+
 PYTHON_CONFIGURE_OPTS="--enable-framework" pyenv install 3.7.0
 pyenv global 3.7.0
 
