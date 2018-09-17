@@ -61,6 +61,8 @@ brew cask install etcher
 brew install pypy
 brew install pypy3
 
+brew cask install java
+
 PYTHON_CONFIGURE_OPTS="--enable-framework" pyenv install 3.7.0
 pyenv global 3.7.0
 
