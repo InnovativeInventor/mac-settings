@@ -54,6 +54,7 @@ brew install yarn
 brew cask install postman
 brew install fzf
 brew install fish
+brew install vim
 
 brew cask install flycut
 brew cask install etcher
